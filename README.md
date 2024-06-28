@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Nandini Naidu</h1>
 <h3>A passionate flutter developer developer from India</h3>
-Portfolio Available at [https://nandininaidu.surge.sh/](https://nandininaidu.surge.sh/)
+Portfolio Available at (https://nandininaidu.surge.sh/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandini-naidu-9928711ba) 
