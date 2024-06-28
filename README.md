@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nandini Naidu</h1>
-<h3 align="center">A passionate flutter developer developer from India</h3>
+<h1>Hi 👋, I'm Nandini Naidu</h1>
+<h3>A passionate flutter developer developer from India</h3>
 Portfolio Available at [https://nandininaidu.surge.sh/](https://nandininaidu.surge.sh/)
 
 ## 🌐 Socials:
