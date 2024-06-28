@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandini Naidu</h1>
 <h3 align="center">A passionate flutter developer developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naidunandu&label=Profile%20views&color=0e75b6&style=flat" alt="naidunandu" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://nandininaidu.surge.sh/](https://nandininaidu.surge.sh/)
+Portfolio Available at [https://nandininaidu.surge.sh/](https://nandininaidu.surge.sh/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandini-naidu-9928711ba) 
